@@ -4,7 +4,7 @@
 ## Worked with/sources: 
 * Replit.py
 * Kaleb Moler
-* example
+* Python Crash Course
 * example
 ## Project Quirks/ Things that don't work
 * example
