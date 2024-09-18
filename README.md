@@ -1,4 +1,4 @@
-# Jhett Carr
+# [Jhett Carr]
 ## [Assignment 2]
 ## [Submission date: 09/18/2024]
 ## Worked with/sources: 
