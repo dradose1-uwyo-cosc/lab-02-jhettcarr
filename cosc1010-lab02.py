@@ -3,10 +3,10 @@
 # 9/18/2024
 # Lab 02 
 # Lab Section: 15
-# Sources, people worked with, help given to: Tested code using Replit py and worked with Kaleb Moler
-# your
-# comments
-# here
+# Sources, people worked with, help given to:
+# Replit.py
+# Kaleb Moler
+# Python crash course textbook
 
 name = "jhett carr"
 
