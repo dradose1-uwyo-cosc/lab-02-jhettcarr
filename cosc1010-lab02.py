@@ -3,7 +3,7 @@
 # 9/18/2024
 # Lab 02 
 # Lab Section: 
-# Sources, people worked with, help given to: Kaleb Moler
+# Sources, people worked with, help given to: Tested code with: https://replit.com/@jcarr16/OriginalRelevantSystemintegrator#main.py and worked with Kaleb Moler
 # your
 # comments
 # here
@@ -17,11 +17,11 @@ print("Hello, COSC1010")
 
 # Assign the string above to a variable named hello_message and print that variable
 hello_message = "Hello, COSC1010"
-print("hell0_message")
+print(hello_message)
 
 # Assign the string "cowboy joe" to a variable, and print that variable with title casing
 mascot = "cowboy joe"
-print("mascot")
+print(mascot.title())  
 
 # Complete the following f-string print message 
     # You will need to create your own variables and insert them  
