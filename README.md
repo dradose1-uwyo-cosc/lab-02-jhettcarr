@@ -2,7 +2,7 @@
 ## [Assignment 2]
 ## [Submission date: 09/18/2024]
 ## Worked with/sources: 
-* Replit.py
+* https://www.online-python.com/
 * Kaleb Moler
 * Python Crash Course
 * example
