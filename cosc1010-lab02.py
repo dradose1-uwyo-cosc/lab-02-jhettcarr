@@ -3,7 +3,7 @@
 # 9/18/2024
 # Lab 02 
 # Lab Section: 
-# Sources, people worked with, help given to: Tested code with: https://replit.com/@jcarr16/OriginalRelevantSystemintegrator#main.py and worked with Kaleb Moler
+# Sources, people worked with, help given to: Tested code using Replit py and worked with Kaleb Moler
 # your
 # comments
 # here
