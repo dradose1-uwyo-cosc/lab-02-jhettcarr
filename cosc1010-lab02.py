@@ -4,7 +4,7 @@
 # Lab 02 
 # Lab Section: 15
 # Sources, people worked with, help given to:
-# online-python
+# https://www.online-python.com/
 # Kaleb Moler
 # Python crash course textbook
 
